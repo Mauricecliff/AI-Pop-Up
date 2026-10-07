@@ -1,0 +1,142 @@
+Important rule to understand
+
+Developer → Types
+AI → Predicts
+Developer → Accepts/Rejects
+
+
+
+
+Practical illustrations 
+
+Autocomplete 
+
+function calculateTotal  
+
+
+Demonstration 2
+function validateEmail(email) {
+
+
+
+Developer types
+
+        ↓
+
+AI predicts
+
+        ↓
+
+Developer accepts
+
+
+
+
+
+AI CHAT
+Create a JavaScript function that validates a student's name and email.
+The name should not be empty and the email should contain @.
+Explain the code. 
+
+
+Refactor this function to make it cleaner and easier for a beginner to understand.
+function total(a,b,c){
+return a+b+c
+} 
+
+
+
+
+
+
+Developer asks
+
+        ↓
+
+AI explains/generates/refactors
+
+        ↓
+
+Developer applies result
+
+
+Assign Tasks - AI AGENT
+
+Build a simple student registration form for this project.
+
+Requirements:
+- Create a registration form.
+- Include name, email and phone number.
+- Add a submit button.
+- Create responsive CSS.
+- Validate the fields using JavaScript.
+- Display an error message for invalid input.
+- Display a success message when the form is valid.
+- Keep the HTML, CSS and JavaScript in separate files.
+
+
+
+
+
+
+
+
+Developer gives task
+
+        ↓
+
+AI analyzes project
+
+        ↓
+
+AI works across files/tools
+
+        ↓
+
+Developer reviews
+
+        ↓
+
+Developer approves
+
+
+ASsignment
+
+Round 1 — 3 minutes
+
+Use Autocomplete to write part of the JavaScript.
+
+Round 2 — 5 minutes
+
+Use Chat to ask AI to explain or improve the code.
+
+Round 3 — 5 minutes
+
+Use Agent to review the complete project and suggest improvements.
+
+
+Overview
+
+
+
+
+
+                 AI ASSISTED DEVELOPMENT
+
+                         │
+          ┌──────────────┼──────────────┐
+          ↓              ↓              ↓
+      AUTOCOMPLETE      CHAT           AGENT
+       Level 1         Level 2        Level 3
+          │              │              │
+       Predicts       Responds        Executes
+          │              │              │
+       Small code     Problems        Larger tasks
+          │              │              │
+          └──────────────┼──────────────┘
+                         ↓
+                  DEVELOPER REVIEWS
+                         ↓
+                    TESTS THE CODE
+                         ↓
+                    SHIPS THE WORK
